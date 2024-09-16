@@ -1,0 +1,98 @@
+[
+    {
+        "id" : 1,
+        "skill" : "C#",
+        "category" : "skills"
+    },
+    {
+        "id" : 2,
+        "tool" : "Sql Server",
+        "category" : "tools"
+    },
+    {
+        "id" : 3,
+        "skill" : "Entity Framework Core",
+        "category" : "skills"
+    },
+    {
+        "id" : 4,
+        "skill" : "ASP.NET Core MVC",
+        "category" : "skills"
+    },
+    {
+        "id" : 5,
+        "skill" : "Bootstrap 5",
+        "category" : "skills"
+    },
+    {
+        "id" : 6,
+        "skill" : "HTML",
+        "category" : "skills"
+    },
+
+    {
+        "id" : 7,
+        "skill" : "CSS",
+        "category" : "skills"
+    },
+    {
+        "id" : 8,
+        "skill" : "Javascript",
+        "category" : "skills"
+    },
+    {
+        "id" : 9,
+        "skill" : "React",
+        "category" : "skills"
+    },
+    {
+        "id" : 10,
+        "skill" : "Web API",
+        "category" : "skills"
+    },
+    {
+        "id" : 11,
+        "skill" : "Web Scraping",
+        "category" : "skills"
+    },
+    {
+        "id" : 12,
+        "skill" : "SEO",
+        "category" : "skills"
+    },
+    {
+        "id" : 13,
+        "tool" : "Visual Studio Code",
+        "category" : "tools"
+    },
+    {
+        "id" : 14,
+        "tool" : "Visual Studio",
+        "category" : "tools"
+    },
+    {
+        "id" : 15,
+        "tool" : "draw.io",
+        "category" : "tools"
+    },
+    {
+        "id" : 16,
+        "tool" : "Jira",
+        "category" : "tools"
+    },
+    {
+        "id" : 17,
+        "tool" : "Git & Github",
+        "category" : "tools"
+    },
+    {
+        "id" : 18,
+        "skill" : "Problem Solving",
+        "category" : "skills"
+    },
+    {
+        "id" : 19,
+        "skill" : "Self Motivation",
+        "category" : "skills"
+    }
+]
