@@ -6,7 +6,7 @@ export default function Projects() {
             <h2>Projects</h2>
             <div class="projects-container">
                 <div class="project">
-                    <img src="src/material/bloggingsystem.png" alt="Blogging System" class="project-photo"/>
+                    <img src="/src/material/bloggingsystem.png" alt="Blogging System" class="project-photo"/>
                     <div class="project-content">
                         <div class="top-content">
                             <h3>Blogging System</h3>
@@ -19,7 +19,7 @@ export default function Projects() {
                 </div>
 
                 <div class="project">
-                    <img src="src/material/pchardwaresystem.png" alt="Blogging System" class="project-photo"/>
+                    <img src="/src/material/pchardwaresystem.png" alt="Blogging System" class="project-photo"/>
                     <div class="project-content">
                         <div class="top-content">
                             <h3>Pc Hardware - E-Commerce App</h3>
@@ -30,7 +30,7 @@ export default function Projects() {
                 </div>
 
                 <div class="project">
-                    <img src="src/material/wms.jpeg" alt="Blogging System" class="project-photo"/>
+                    <img src="/src/material/wms.jpeg" alt="Blogging System" class="project-photo"/>
                     <div class="project-content">
                         <div class="top-content">
                             <h3>Warehouse Management System</h3>
